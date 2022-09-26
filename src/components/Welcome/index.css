@@ -1,0 +1,29 @@
+.bg-continer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  min-height: 100vh;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 40px;
+  font-weight: 400;
+}
+.paraa {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  font-weight: 200;
+  color: #ffffff;
+}
+.button {
+  background-color: #ffffff;
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  padding: 5px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 5px;
+}
